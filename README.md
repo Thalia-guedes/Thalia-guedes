@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/ThaliaGuedes/ThaliaGuedes/raw/main/assets/profile-image.png" width="200" height="200" style="border-radius: 50%;">
+  <h1>Hi there, I'm ThaliaGuedes!</h1>
+  <p>Embarking on a coding adventure! 🚀</p>
+</div>
+## About Me
 
-<!--
-**Thalia-guedes/Thalia-guedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm Thalia, a passionate learner on the journey of mastering the world of code. Currently diving headfirst into the exciting world of programming, I'm all about turning coffee into code
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=ThaliaGuedes&show_icons=true&theme=radical" />
+</div>
+
+&nbsp;
+
+## My Skills
+
+#### Programming Languages:
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+#### Tools:
+
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+</div>
