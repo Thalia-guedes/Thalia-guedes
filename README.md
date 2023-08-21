@@ -11,7 +11,7 @@ Hey! I'm Thalia, a passionate learner on the journey of mastering the world of c
 
 
 <div align="center">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=ThaliaGuedes&show_icons=true&theme=radical" />
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=Thalia-guedes&show_icons=true&theme=radical" />
 </div>
 
 &nbsp;
