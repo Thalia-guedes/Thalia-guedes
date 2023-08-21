@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/ThaliaGuedes/ThaliaGuedes/raw/main/assets/profile-image.png" width="200" height="200" style="border-radius: 50%;">
-  <h1>Hi there, I'm ThaliaGuedes!</h1>
-  <p>Embarking on a coding adventure! 🚀</p>
-</div>
+
 ## About Me
 
 Hey! I'm Thalia, a passionate learner on the journey of mastering the world of code. Currently diving headfirst into the exciting world of programming, I'm all about turning coffee into code
